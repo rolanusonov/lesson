@@ -1,0 +1,63 @@
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: linear-gradient(260deg, #3756d7, #500f0f);
+font-family: "Roboto Mono",sans-serif;
+
+
+}
+ .link{
+   text-decoration: none;
+   color: white;
+ }
+.home{
+  padding: 50px;
+  color: white;
+}
+.mentor{
+padding: 50px;
+}
+.NameMentor{
+  color: white;
+}
+.mentors{
+  width: 300px;
+  font-size: 28px;
+  margin: 15px 0;
+   border-bottom: white solid 1px;
+  border-right: white solid 1px;
+  border-top: solid white 1px;
+
+}
+.detailMen{
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+  color: white;
+}
+
+.detailName{
+  margin: 5px 0;
+}
+.evenOl {
+  font-size:    calc(10px + 18 * (100vw / 1140));
+  color: rgba(255, 255, 255, 0.6);
+}
+.naz{
+   color: white;
+}
+.blockNaz{
+  display: flex;
+  align-items: center;
+}
+.blockNaz svg{
+ transform: rotate(180deg);
+  margin: 0 5px 0 0;
+}
