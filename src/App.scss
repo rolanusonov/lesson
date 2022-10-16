@@ -61,3 +61,16 @@ padding: 50px;
  transform: rotate(180deg);
   margin: 0 5px 0 0;
 }
+.arrow{
+  display: flex;
+  align-items: center;
+}
+.arrow svg{
+  margin: 0 5px;
+  transform: rotate(180deg);
+}
+@media (max-width: 400px) {
+  .mentors {
+    width: 230px;
+  }
+}

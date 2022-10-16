@@ -1,16 +1,21 @@
 export const rolan = [
     {
-        name: "rolan"
+        name: "Rolan"
     }, {
-        group: "Front End 28;"
+        group: "Front End 28; 09:00",
+        link:`https://t.me/+JxnrJ-qPnXE1NjIy`
     }, {
-        group: "Front End 30;"
+        group: "Front End 30; 19:00",
+        link:`https://t.me/+fNF4Brx-sRc5ZTBi`
     }, {
-        group: "Front End 31;"
+        group: "Front End 31; 11:00",
+        link:`https://t.me/+evtp5oV422IxMjUy`
     }, {
-        group: "Front End 32;"
+        group: "Front End 32; 17:00",
+        link:`https://t.me/+TbW0I-Sh2Sc3OTY6`
     }, {
-        group: "Front End 34;"
+        group: "Front End 34; 13:00",
+        link:`https://t.me/+ARj0uuQoRPtjM2Yy`
     },
 ]
 export const bekbol = [
